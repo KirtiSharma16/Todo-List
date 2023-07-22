@@ -1,3 +1,0 @@
-EJS embedded javascript templating
-
-<%= ejs%> marker that tells the file to replace whatever is inside it with the value of the variable 
